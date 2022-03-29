@@ -2,9 +2,6 @@
 
 ## Forgotten line
 
-<<<<<<< HEAD
 ## HOTFIX:
 
-=======
-## I'm in indes
->>>>>>> iss53
+## Changes to send to remote
